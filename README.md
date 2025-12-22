@@ -22,5 +22,5 @@
   <br>
   <strong>Twitter:</strong> <a href="https://x.com/JustT3NED">@JustT3NED</a>
   <br>
-  <strong>Discord:</strong> <a href="https://discord.com/users/424566306042544128">t3ned</a>
+  <strong>Discord:</strong> <a href="https://discord.com/users/1384629017008803880">t5ned</a>
 </div>
